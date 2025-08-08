@@ -1,21 +1,27 @@
-GachaPlex — Created by Uzi | Join Discord
-A free, feature-rich Discord bot for moderation, fun, and customization. Self-host or use the official hosted version.
-Features
-✅ Moderation commands
-✅ Welcome messages
-✅ Reaction roles
-✅ Logging system
-✅ Fun commands
-Setup Guide
-Fork the repo
-Install dependencies:
-pip install -r requirements.txt
-Create .env file:
+# GachaPlex
+
+**GachaPlex — Created by Uzi | [Join our Discord](https://discord.gg/h5jYF4aA)**
+
+A free, feature-rich Discord bot for moderation, fun, and customization.  
+Self-host or contribute to make it better!
+
+## Features
+- ✅ Moderation commands
+- ✅ Welcome messages
+- ✅ Reaction roles
+- ✅ Logging system
+- ✅ Fun commands
+
+## Setup
+1. Fork this repo
+2. 
+3. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   
+3.Copy .env.example to .env and add your token:
+
 TOKEN=your_token_here
-PREFIX=!
-Run bot:
+
+4.Run the bot:
 python bot.py
-Screenshots / GIFs
-Show embeds, help menu, reaction role panel
-License
-State that they must keep the “GachaPlex — Created by Uzi | Discord link” credit in the bot
